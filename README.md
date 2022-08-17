@@ -1,2 +1,3 @@
 # NYC-Infrastructure-And-Temperature
-Analyzed and visualizing temperature differences between different types of infrastructure in NYC.
+
+The aim of this project is to visualize different types of infrastructure (parks, roadbeds, pavements, parking structures, swimming pools, etc.) in NYC on the NYC map, and overlay those with temperature data collected from the NASA LANDSAT 8 Satellite. 
